@@ -44,7 +44,7 @@ export const getDb = async () => {
   // Get confirmation of the request.
   const result = await request;
   result
-  ? console.log("🚀 - 3333 data retrieved from the database ", result.value)
+  ? console.log("🚀 - 444 data retrieved from the database ", result.value)
   : console.log("🚀 - new data not found in the database");
 return result?.value;
 

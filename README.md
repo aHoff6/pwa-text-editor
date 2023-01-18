@@ -1,1 +1,1 @@
-# pwa-text-editor
+# pwa-text-ed
