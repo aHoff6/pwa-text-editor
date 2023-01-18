@@ -39,12 +39,12 @@ export const getDb = async () => {
   const store = tx.objectStore('jate');
 
   // Use the .getAll() method to get all data in the database.
-  const request = store.getAll();
+  const request = store.get(1);
 
   // Get confirmation of the request.
   const result = await request;
   result
-  ? console.log("🚀 -new data retrieved from the database", result.value)
+  ? console.log("🚀 - 3333 data retrieved from the database ", result.value)
   : console.log("🚀 - new data not found in the database");
 return result?.value;
 
