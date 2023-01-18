@@ -13,8 +13,8 @@ module.exports = () => {
     entry: {
       main: './src/js/index.js',
       install: './src/js/install.js',
-      editor: './src/js/editor.js',
-      database: './src/js/database.js',
+      // editor: './src/js/editor.js',
+      // database: './src/js/database.js',
     },
     // Output for our bundles
     output: {
