@@ -8,7 +8,7 @@ With this JATE text editor we are able to download the JATE text editor web appl
 ---
 To install this project to get the development environment running:
 
-1. Clone GitHub repository here; https://github.com/aHoff6/weather-dash
+1. Clone GitHub repository here: https://github.com/aHoff6/pwa-text-editor
 by clicking the green "code" button and copying the URL.
 
 2. Open the Command Line and change the directory to where you would like to clone the directory.
